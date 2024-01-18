@@ -33,7 +33,7 @@
       },
       "AUTHENTICATION_TITLE": "認証",
       "ADVANCED_TITLE": "詳細設定",
-      "DANGER_ZONE_TITLE": "棄権ゾーン",
+      "DANGER_ZONE_TITLE": "危険ゾーン",
       "PRIVACY_NOTE": "プライバシーについて: <policyLink>プライバシーポリシー</policyLink>を読み、必要に応じて設定を変更してください<hubLink>プライバシーハブ</hubLink>。",
       "DANGER_ZONE": {
         "TITLE": "危険 ゾーン"
